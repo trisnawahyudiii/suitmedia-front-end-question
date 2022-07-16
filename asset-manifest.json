@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/suitmedia-front-end-question/static/css/main.bd83451d.css",
+    "main.js": "/suitmedia-front-end-question/static/js/main.b09b3517.js",
+    "static/js/787.79f80e03.chunk.js": "/suitmedia-front-end-question/static/js/787.79f80e03.chunk.js",
+    "static/media/about-bg.jpg": "/suitmedia-front-end-question/static/media/about-bg.d6d0339581653fbe0e6d.jpg",
+    "static/media/bg.jpg": "/suitmedia-front-end-question/static/media/bg.2390129eda531bf9ed09.jpg",
+    "index.html": "/suitmedia-front-end-question/index.html",
+    "main.bd83451d.css.map": "/suitmedia-front-end-question/static/css/main.bd83451d.css.map",
+    "main.b09b3517.js.map": "/suitmedia-front-end-question/static/js/main.b09b3517.js.map",
+    "787.79f80e03.chunk.js.map": "/suitmedia-front-end-question/static/js/787.79f80e03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd83451d.css",
+    "static/js/main.b09b3517.js"
+  ]
+}
