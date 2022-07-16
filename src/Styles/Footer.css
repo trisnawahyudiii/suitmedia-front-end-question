@@ -1,0 +1,14 @@
+p {
+    margin: 0;
+}
+.footer-container {
+    color: #fff;
+    padding: 1em;
+    background-color: #3a3837;
+}
+
+.footer-container img {
+    cursor: pointer;
+    max-width: 24px;
+    margin: 8px 8px 0px;
+}
